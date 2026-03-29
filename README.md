@@ -114,16 +114,16 @@ The dashboard includes:
 - Retention metrics
 
 ### 📊 Executive Overview
-![Overview](images/Executive Overview 1.png)
+![Overview](images/executive_overview.png)
 
 ### 📊 Product Performance
-![Product](images/Product Performance 2.png)
+![Product](images/product_performance.png)
 
 ### 📊 Customer Insights
-![Customer](images/Customer Insights 3.png)
+![Customer](images/customer_insights.png)
 
 ### 📊 Retention & Cohort
-![Retention](images/Retention & Cohort 4.png)
+![Retention](images/retention_cohort.png)
 
 ---
 
