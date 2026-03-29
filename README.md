@@ -161,6 +161,19 @@ The dashboard includes:
 
 • Implement personalized campaigns to improve customer retention
 
+---
+
+## Project Structure
+
+ecommerce-customer-analytics/
+│
+├── data/                # Dataset description
+├── notebooks/           # Data cleaning (Python)
+├── sql/                 # SQL analysis scripts
+├── dashboard/           # Power BI dashboard file
+├── images/              # Dashboard screenshots
+└── README.md
+
 • Use segmentation (RFM) to target different customer groups effectively
 
 - More detailed business insights
