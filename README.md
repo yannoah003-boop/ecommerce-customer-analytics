@@ -1,8 +1,8 @@
 # E-commerce Customer Analytics Project
-
+This project delivers actionable business insights through data analysis and visualization.
 This project analyzes an e-commerce transaction dataset to understand **sales performance, product trends, and customer behavior**.  
 The analysis combines **Python for data cleaning, SQL for analytical queries, and Power BI for interactive dashboards**.
-This project delivers actionable business insights through data analysis and visualization.
+
 ---
 
 
@@ -161,6 +161,12 @@ The dashboard includes:
 
 • Implement personalized campaigns to improve customer retention
 
+• Use segmentation (RFM) to target different customer groups effectively
+
+- More detailed business insights
+- Additional customer behavior analysis
+- Enhanced dashboard visualizations
+  
 ---
 
 ## Project Structure
@@ -173,9 +179,3 @@ ecommerce-customer-analytics/
 ├── dashboard/           # Power BI dashboard file
 ├── images/              # Dashboard screenshots
 └── README.md
-
-• Use segmentation (RFM) to target different customer groups effectively
-
-- More detailed business insights
-- Additional customer behavior analysis
-- Enhanced dashboard visualizations
