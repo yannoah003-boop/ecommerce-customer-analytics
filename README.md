@@ -1,6 +1,5 @@
 # E-commerce Customer Analytics Project
-This project delivers actionable business insights through data analysis and visualization.
-This project analyzes an e-commerce transaction dataset to understand **sales performance, product trends, and customer behavior**.  
+This project delivers actionable business insights through data analysis and visualization and analyzes an e-commerce transaction dataset to understand **sales performance, product trends, and customer behavior**.  
 The analysis combines **Python for data cleaning, SQL for analytical queries, and Power BI for interactive dashboards**.
 
 ---
