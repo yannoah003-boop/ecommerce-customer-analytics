@@ -170,7 +170,7 @@ The dashboard includes:
 
 ## Project Structure
 
-'''
+```
 ecommerce-customer-analytics/
 │
 ├── data/                # Dataset description
@@ -179,4 +179,4 @@ ecommerce-customer-analytics/
 ├── dashboard/           # Power BI dashboard file
 ├── images/              # Dashboard screenshots
 └── README.md
-'''
+```
