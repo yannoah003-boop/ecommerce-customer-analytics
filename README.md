@@ -149,6 +149,7 @@ The dashboard includes:
 
 • Customer spending follows a long-tail distribution, with a small group generating high revenue
 
+---
 
 # Business Recommendations
 
