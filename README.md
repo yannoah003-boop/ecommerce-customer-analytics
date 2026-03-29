@@ -102,7 +102,7 @@ sql/ecommerce_analysis.sql
 
 ---
 
-# Dashboard
+## Dashboard
 
 An interactive **Power BI dashboard** was created to visualize key insights from the analysis.
 
@@ -114,10 +114,17 @@ The dashboard includes:
 - Customer segmentation
 - Retention metrics
 
-Power BI file:
-dashboard/ecommerce_dashboard.pbix
+### 📊 Executive Overview
+![Overview](images/Executive Overview 1.png)
 
-Dashboard screenshots are available in the `images` folder.
+### 📊 Product Performance
+![Product](images/Product Performance 2.png)
+
+### 📊 Customer Insights
+![Customer](images/Customer Insights 3.png)
+
+### 📊 Retention & Cohort
+![Retention](images/Retention & Cohort 4.png)
 
 ---
 
@@ -130,9 +137,30 @@ Dashboard screenshots are available in the `images` folder.
 
 ---
 
-# Future Improvements
+## Key Insights
 
-This project will be expanded with:
+• Revenue is concentrated in a small number of top-performing products
+
+• Top customers contribute a significant share of total revenue, indicating moderate customer concentration
+
+• Most customers make only one purchase, showing weak short-term retention
+
+• The majority of repeat purchases occur within 30 days
+
+• Customer spending follows a long-tail distribution, with a small group generating high revenue
+
+
+## Business Recommendations
+
+• Develop loyalty programs to retain high-value customers
+
+• Focus marketing efforts on customers likely to repurchase within 30 days
+
+• Promote top-performing products to maximize revenue
+
+• Implement personalized campaigns to improve customer retention
+
+• Use segmentation (RFM) to target different customer groups effectively
 
 - More detailed business insights
 - Additional customer behavior analysis
