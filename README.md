@@ -6,19 +6,21 @@ The analysis combines **Python for data cleaning, SQL for analytical queries, an
 ---
 
 
-1. Project Overview
-This project focuses on analyzing an e-commerce transaction dataset to uncover insights into sales performance, product trends, and customer behavior.
-The dataset is sourced from Kaggle (Online Retail Dataset) and contains over 540,000 transaction records, including detailed information such as invoice data, product descriptions, quantities, prices, and customer IDs.
-The objective of this project is to build an end-to-end data analytics pipeline using Python, SQL, and Power BI, transforming raw transactional data into actionable business insights.
-The analysis covers three main areas:
-•	Sales Performance Analysis: evaluating total revenue, order volume, and monthly growth trends 
-•	Product Performance Analysis: identifying top-selling and high-revenue products, as well as revenue concentration patterns 
-•	Customer Behavior Analysis: understanding customer spending patterns, segmentation (RFM), and retention behavior (cohort analysis) 
-The project follows a structured workflow:
-•	Data cleaning and preprocessing using Python (Pandas) 
-•	Data analysis using SQL (MySQL) with advanced techniques such as window functions and cohort logic 
-•	Data visualization through an interactive Power BI dashboard 
-This project demonstrates the ability to perform end-to-end data analysis, from raw data preparation to business-focused insights and dashboard reporting.
+# Project Overview
+
+The goal of this project is to explore key business questions from an e-commerce dataset, including:
+
+- How sales performance changes over time
+- Which products contribute most to revenue
+- How customers behave and spend
+- How customer retention evolves over time
+
+The project follows a typical **end-to-end data analytics workflow**:
+
+1. Data cleaning and preprocessing (Python)
+2. Business analysis using SQL
+3. Data visualization using Power BI
+4. Business insights and recommendations
 
 
 ---
