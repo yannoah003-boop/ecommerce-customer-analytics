@@ -102,7 +102,7 @@ sql/ecommerce_analysis.sql
 
 ---
 
-## Dashboard
+# Dashboard
 
 An interactive **Power BI dashboard** was created to visualize key insights from the analysis.
 
@@ -137,7 +137,7 @@ The dashboard includes:
 
 ---
 
-## Key Insights
+# Key Insights
 
 • Revenue is concentrated in a small number of top-performing products
 
@@ -150,7 +150,7 @@ The dashboard includes:
 • Customer spending follows a long-tail distribution, with a small group generating high revenue
 
 
-## Business Recommendations
+# Business Recommendations
 
 • Develop loyalty programs to retain high-value customers
 
