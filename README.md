@@ -178,5 +178,14 @@ ecommerce-customer-analytics/
 ├── sql/                 # SQL analysis scripts
 ├── dashboard/           # Power BI dashboard file
 ├── images/              # Dashboard screenshots
+├── docs/                # Full analysis report
 └── README.md
 ```
+
+---
+
+## Additional Documentation
+
+For detailed analysis and full report, please refer to:
+
+docs/ecommerce_analysis_report.docx
