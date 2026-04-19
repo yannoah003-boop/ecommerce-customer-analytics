@@ -142,9 +142,9 @@ The dashboard includes:
 
 • Top customers contribute a significant share of total revenue, indicating moderate customer concentration
 
-• Most customers make only one purchase, showing weak short-term retention
+• Many customers do not make a second purchase, indicating weak short-term retention
 
-• The majority of repeat purchases occur within 30 days
+• Repeat purchases are most commonly observed within 30 days
 
 • Customer spending follows a long-tail distribution, with a small group generating high revenue
 
